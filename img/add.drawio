@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="27.1.4">
+  <diagram name="Página-1" id="as40btJ54e6DwOAYy4ld">
+    <mxGraphModel dx="1034" dy="570" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="600" pageHeight="380" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="COEKGmfpDfsZIMyPhy94-3" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;ARQUITETURA DE DADOS&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="162" y="26" width="297" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="COEKGmfpDfsZIMyPhy94-66" value="&lt;u&gt;TIPO&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="28" y="90" width="176" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="COEKGmfpDfsZIMyPhy94-71" value="&lt;u&gt;SISTEMA&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="204" y="90" width="184" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="COEKGmfpDfsZIMyPhy94-75" value="&lt;span&gt;INFORMAÇÃO&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="28" y="206" width="176" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="COEKGmfpDfsZIMyPhy94-76" value="&lt;span&gt;TRANSACIONAIS&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="204" y="170" width="184" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="COEKGmfpDfsZIMyPhy94-77" value="&lt;u&gt;FOCO&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="388" y="90" width="186" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="COEKGmfpDfsZIMyPhy94-78" value="&lt;span&gt;CONHECIMENTO&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="28" y="242" width="176" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="COEKGmfpDfsZIMyPhy94-79" value="&lt;span&gt;EXPERIÊNCIA&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="28" y="278" width="176" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="COEKGmfpDfsZIMyPhy94-80" value="&lt;span&gt;DADO&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="28" y="170" width="176" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="COEKGmfpDfsZIMyPhy94-81" value="&lt;span&gt;APOIO A DECISÃO&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="204" y="206" width="184" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="COEKGmfpDfsZIMyPhy94-82" value="&lt;span&gt;DATA LAKE&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="204" y="241" width="184" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="COEKGmfpDfsZIMyPhy94-83" value="&lt;span&gt;REDUÇÃO DE CUSTOS&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="388" y="170" width="184" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="COEKGmfpDfsZIMyPhy94-84" value="&lt;span&gt;INCREMENTO DE RECEITA&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="388" y="222" width="184" height="92" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
