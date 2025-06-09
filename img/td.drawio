@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="27.1.4">
+  <diagram name="Página-1" id="as40btJ54e6DwOAYy4ld">
+    <mxGraphModel dx="1034" dy="570" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="440" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="COEKGmfpDfsZIMyPhy94-3" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;TRANSFORMAÇÃO DIGITAL&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="264" y="24" width="297" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="COEKGmfpDfsZIMyPhy94-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="COEKGmfpDfsZIMyPhy94-8" target="COEKGmfpDfsZIMyPhy94-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="COEKGmfpDfsZIMyPhy94-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="COEKGmfpDfsZIMyPhy94-8" target="COEKGmfpDfsZIMyPhy94-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="COEKGmfpDfsZIMyPhy94-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;TECNOLOGIAS HABILITADORAS (INDÚSTRIA 4.0)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="18" y="145" width="198" height="158" as="geometry" />
+        </mxCell>
+        <mxCell id="COEKGmfpDfsZIMyPhy94-18" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;PRODUTO DIGITAL&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="608" y="142" width="193" height="166" as="geometry" />
+        </mxCell>
+        <mxCell id="COEKGmfpDfsZIMyPhy94-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="COEKGmfpDfsZIMyPhy94-19" target="COEKGmfpDfsZIMyPhy94-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="COEKGmfpDfsZIMyPhy94-19" value="MODELO DE REFERÊNCIA ÁGIL" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="216" y="335" width="389" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="COEKGmfpDfsZIMyPhy94-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="COEKGmfpDfsZIMyPhy94-41" target="COEKGmfpDfsZIMyPhy94-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="COEKGmfpDfsZIMyPhy94-41" value="INOVAÇÃO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="216" y="94" width="389" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="COEKGmfpDfsZIMyPhy94-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="COEKGmfpDfsZIMyPhy94-54" target="COEKGmfpDfsZIMyPhy94-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="COEKGmfpDfsZIMyPhy94-54" value="UX" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="298.5" y="148" width="224" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="COEKGmfpDfsZIMyPhy94-57" value="Assuntos de Arquiterura de Negócios" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="144" y="372" width="217" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="COEKGmfpDfsZIMyPhy94-58" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="111" y="379" width="33" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="COEKGmfpDfsZIMyPhy94-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="COEKGmfpDfsZIMyPhy94-59" target="COEKGmfpDfsZIMyPhy94-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="COEKGmfpDfsZIMyPhy94-59" value="MODELOS DE NEGÓCIO DIGITAL" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="298.5" y="281" width="224" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="COEKGmfpDfsZIMyPhy94-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="COEKGmfpDfsZIMyPhy94-61" target="COEKGmfpDfsZIMyPhy94-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="COEKGmfpDfsZIMyPhy94-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="COEKGmfpDfsZIMyPhy94-61" target="COEKGmfpDfsZIMyPhy94-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="COEKGmfpDfsZIMyPhy94-61" value="DADOS - DIGITALIZAÇÃO&lt;br&gt;PROCESSOS - DIGITAÇÃO&lt;div&gt;PESSOAS - AUTOMAÇÃO&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="264" y="198" width="294" height="55" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
