@@ -1,0 +1,42 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="27.1.4">
+  <diagram name="Página-1" id="as40btJ54e6DwOAYy4ld">
+    <mxGraphModel dx="1034" dy="570" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="400" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="COEKGmfpDfsZIMyPhy94-3" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;EXCELÊNCIA OPERACIONAL&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="264" y="24" width="297" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="COEKGmfpDfsZIMyPhy94-66" value="&lt;u&gt;GESTOR&lt;/u&gt;&lt;div&gt;ESTRATÉGIA&lt;/div&gt;&lt;div&gt;PROCESSO&lt;/div&gt;&lt;div&gt;RECURSOS&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="130" y="104" width="176" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="COEKGmfpDfsZIMyPhy94-67" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="308" y="104" width="160" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="COEKGmfpDfsZIMyPhy94-68" value="EFETIVIDADE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="131" y="240" width="177" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="COEKGmfpDfsZIMyPhy94-69" value="EFICIÊNCIA&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="306" y="240" width="191" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="COEKGmfpDfsZIMyPhy94-70" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="492" y="240" width="185" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="COEKGmfpDfsZIMyPhy94-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="COEKGmfpDfsZIMyPhy94-71" target="COEKGmfpDfsZIMyPhy94-70">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="548" y="228" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="COEKGmfpDfsZIMyPhy94-71" value="&lt;u&gt;LÍDER&lt;/u&gt;&lt;br&gt;&lt;div&gt;CULTURA ORGANIZACIONAL&lt;/div&gt;&lt;div&gt;LIDERANÇA&lt;/div&gt;&lt;div&gt;PESSOAS&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="306" y="104" width="184" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="COEKGmfpDfsZIMyPhy94-73" value="EFICIÊNCIA&lt;br&gt;&lt;div&gt;Otimização de Processo&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Lean&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Tempo e Custo&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="306" y="240" width="186" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="COEKGmfpDfsZIMyPhy94-74" value="EFICÁCIA&lt;br&gt;&lt;div&gt;Redução de Ruptura de Processo&lt;/div&gt;&lt;div&gt;6 Sigma - DIMAIC&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="492" y="240" width="186" height="116" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
