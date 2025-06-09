@@ -1,0 +1,28 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="27.1.4">
+  <diagram name="Página-1" id="as40btJ54e6DwOAYy4ld">
+    <mxGraphModel dx="1034" dy="570" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="600" pageHeight="380" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="COEKGmfpDfsZIMyPhy94-3" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;MODELOS DE NEGÓCIO&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="145" y="34" width="297" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="COEKGmfpDfsZIMyPhy94-66" value="&lt;u&gt;ON DEMAND&lt;/u&gt;&lt;div&gt;IFOOD, UBER&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="119" y="112" width="176" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="COEKGmfpDfsZIMyPhy94-67" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="297" y="112" width="160" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="COEKGmfpDfsZIMyPhy94-68" value="&lt;u&gt;FREEMIUM&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="120" y="248" width="177" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="COEKGmfpDfsZIMyPhy94-71" value="&lt;u&gt;AD SUPORTED&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="295" y="112" width="184" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="COEKGmfpDfsZIMyPhy94-73" value="&lt;u&gt;ASSINATURA&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="295" y="248" width="186" height="116" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
