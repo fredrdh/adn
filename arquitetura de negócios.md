@@ -6,7 +6,9 @@ A **Arquitetura de Negócios** (ou **Business Architecture**) refere-se à estru
 
 >**Arquitetura de Negócios** é o uso das capacidades da empresa para entregar produtos, serviços e conteúdo.
 
-![Inovação](img/inovacao.png)
+<p align="center">
+    <img src="(img/inovacao.png">
+</p>
 
 ## Índice
 
@@ -38,7 +40,9 @@ A principal finalidade da Arquitetura de Negócios é garantir que a estrutura, 
 - **Facilitar a inovação e o desenvolvimento de novos produtos ou serviços.**
 - **Aumentar a capacidade de adaptação e resposta a mudanças.**
 
-![Transformação Digital](img/td.png)
+<p align="center">
+    <img src="(img/td.png">
+</p>
 
 ## Componentes Principais
 
@@ -50,7 +54,9 @@ A **estrutura organizacional** define como os papéis e responsabilidades são d
 - **Papéis e responsabilidades:** Como as atividades e funções são divididas e atribuídas aos colaboradores.
 - **Governança:** Definição dos processos de tomada de decisão e controle.
 
-![Excelência Operacional](img/eo.png)
+<p align="center">
+    <img src="(img/eo.png">
+</p>
 
 ### Modelos de Negócio
 
@@ -85,7 +91,9 @@ A **modelagem de processos** descreve como as operações diárias são realizad
 - **Processos de apoio:** Aqueles que dão suporte às operações principais (e.g., RH, TI, finanças).
 - **Fluxos de trabalho e otimização de processos:** Melhoria contínua de como as atividades são executadas.
 
-![Modelo de Referência Ágil](img/mdra.png)
+<p align="center">
+    <img src="(img/mdra.png">
+</p>
 
 ### Tecnologias e Infraestrutura
 
@@ -95,7 +103,9 @@ A **tecnologia e infraestrutura** referem-se às ferramentas, sistemas e platafo
 - **Infraestrutura de TI:** Redes, servidores e recursos de computação que suportam a operação de tecnologias.
 - **Transformação digital:** A adoção de novas tecnologias (como IA, Big Data, etc.) para suportar inovação e mudanças nos processos de negócios.
 
-![Arquitetura de Dados](img/add.png)
+<p align="center">
+    <img src="(img/add.png">
+</p>
 
 ## Benefícios da Arquitetura de Negócios
 
