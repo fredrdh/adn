@@ -7,7 +7,7 @@ A **Arquitetura de Negócios** (ou **Business Architecture**) refere-se à estru
 >**Arquitetura de Negócios** é o uso das capacidades da empresa para entregar produtos, serviços e conteúdo.
 
 <p align="center">
-    <img src="(img/inovacao.png">
+    <img src="img/inovacao.png">
 </p>
 
 ## Índice
@@ -41,7 +41,7 @@ A principal finalidade da Arquitetura de Negócios é garantir que a estrutura, 
 - **Aumentar a capacidade de adaptação e resposta a mudanças.**
 
 <p align="center">
-    <img src="(img/td.png">
+    <img src="img/td.png">
 </p>
 
 ## Componentes Principais
@@ -55,7 +55,7 @@ A **estrutura organizacional** define como os papéis e responsabilidades são d
 - **Governança:** Definição dos processos de tomada de decisão e controle.
 
 <p align="center">
-    <img src="(img/eo.png">
+    <img src="img/eo.png">
 </p>
 
 ### Modelos de Negócio
@@ -92,7 +92,7 @@ A **modelagem de processos** descreve como as operações diárias são realizad
 - **Fluxos de trabalho e otimização de processos:** Melhoria contínua de como as atividades são executadas.
 
 <p align="center">
-    <img src="(img/mdra.png">
+    <img src="img/mdra.png">
 </p>
 
 ### Tecnologias e Infraestrutura
@@ -104,7 +104,7 @@ A **tecnologia e infraestrutura** referem-se às ferramentas, sistemas e platafo
 - **Transformação digital:** A adoção de novas tecnologias (como IA, Big Data, etc.) para suportar inovação e mudanças nos processos de negócios.
 
 <p align="center">
-    <img src="(img/add.png">
+    <img src="img/add.png">
 </p>
 
 ## Benefícios da Arquitetura de Negócios
