@@ -120,4 +120,4 @@ Sustentação da transformação digital
 - Caso seja preciso, Regime Especial (instrumento jurídico para alteração de regra temporária)  
 - 3 processos por capacidade de negócio  
 - 2 atores por capacidade de negócio  
-- [BIA – Business Impact Analysis](#https://tiagosouza.com/coso-controles-internos-estrutura-framework/)
+- [BIA – Business Impact Analysis](!https://tiagosouza.com/coso-controles-internos-estrutura-framework/)
