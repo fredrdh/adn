@@ -1,4 +1,4 @@
-git# Arquitetura de Negócios
+# Arquitetura de Negócios
 
 A **Arquitetura de Negócios** (ou **Business Architecture**) refere-se à estrutura organizacional, processos, sistemas e tecnologias que suportam os objetivos de negócios de uma empresa. Ela é uma disciplina estratégica que ajuda as organizações a alinhar sua estrutura e processos com suas metas de longo prazo.
 
