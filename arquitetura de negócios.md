@@ -107,7 +107,7 @@ A **tecnologia e infraestrutura** referem-se às ferramentas, sistemas e platafo
     <img src="img/add.png">
 </p>
 
-## Benefícios da Arquitetura de Negócios
+## **Benefícios da Arquitetura de Negócios**
 
 Uma boa arquitetura de negócios traz diversos benefícios para a organização:
 
@@ -116,7 +116,7 @@ Uma boa arquitetura de negócios traz diversos benefícios para a organização:
 - **Aumento da agilidade organizacional:** Facilita a adaptação às mudanças no mercado e nas necessidades do cliente.
 - **Melhor tomada de decisões:** Oferece uma visão holística que melhora a capacidade de análise e de decisão estratégica.
 
-## Metodologias Comuns
+## **Metodologias Comuns**
 
 Existem diversas metodologias para construir e implementar a Arquitetura de Negócios. Algumas das mais conhecidas incluem:
 
@@ -124,7 +124,7 @@ Existem diversas metodologias para construir e implementar a Arquitetura de Neg�
 - **Zachman Framework:** Focado em categorizar diferentes aspectos da organização, incluindo objetivos de negócios, funções e tecnologia.
 - **Archimate:** Uma linguagem gráfica para modelar a arquitetura corporativa, geralmente usada em conjunto com TOGAF.
 
-## Exemplos de Aplicação
+## [**Exemplos de Aplicação**](https://github.com/fredrdh/adn/blob/main/aplicando%20a%20arquitetura%20de%20neg%C3%B3cios.md)
 
 A Arquitetura de Negócios é aplicada de várias formas dependendo da indústria e das necessidades da organização. Alguns exemplos incluem:
 
@@ -132,7 +132,7 @@ A Arquitetura de Negócios é aplicada de várias formas dependendo da indústri
 - **Reestruturação Organizacional:** Empresas que precisam reorganizar processos e equipes para melhorar a eficiência operacional.
 - **Gestão de Mudanças:** Empresas que estão passando por fusões, aquisições ou mudanças significativas nos modelos de negócios.
 
-## Conclusão
+## **Conclusão**
 
 A Arquitetura de Negócios é essencial para alinhar a estratégia de negócios com as operações e sistemas internos de uma organização. Ela permite que as empresas se adaptem com mais facilidade às mudanças do mercado, otimizem seus processos e maximizem a entrega de valor aos seus clientes.
 

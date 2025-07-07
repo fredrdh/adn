@@ -17,7 +17,7 @@
 - [Conceitos Chaves / Destaques da Jornada](#conceitos-chaves--destaques-da-jornada)
 - [Entrega esperada em projetos de Arquitetura de Negócio](#entrega-esperada-em-projetos-de-arquitetura-de-negócio)
 
-## [**O que é Arquitetura de Negócios?**]https://github.com/fredrdh/adn/blob/main/arquitetura%20de%20neg%C3%B3cios.md
+## [**O que é Arquitetura de Negócios?**](https://github.com/fredrdh/adn/blob/main/arquitetura%20de%20neg%C3%B3cios.md)
 
 É a **visão holística e multidimensional** do negócio, descrevendo como uma organização usa suas **competências essenciais** para alcançar seus objetivos estratégicos. Inclui aspectos como:
 
