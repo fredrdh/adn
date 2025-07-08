@@ -113,6 +113,7 @@ Para que uma capacidade seja eficaz, ela precisa ser interoperável — ou seja,
 - Aumentar a fluidez da informação e da tomada de decisão
 
   Capacidade ≠ Processo
+
   Capacidade = Competência + Papéis + Recursos + Processos + Sistemas
 
 ### 🧠 **Um sistema, uma coisa**
