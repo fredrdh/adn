@@ -1,4 +1,3 @@
-
 # **Aplicando a Arquitetura de Negócios**
 
 ## 📚 Índice
@@ -7,7 +6,17 @@
 - [Quais os principais valores gerados?](#quais-os-principais-valores-gerados)
 - [Como elaborar a Arquitetura de Negócios na prática?](#como-elaborar-a-arquitetura-de-negócios-na-prática)
 - [Principais Blueprints de Arquitetura de Negócio](#principais-blueprints-de-arquitetura-de-negócio)
-- [Fundamentos Essenciais da Arquitetura de Negócio](#fundamentos-essenciais-da-arquitetura-de-negócio)
+- [🔧 Processos em Arquitetura de Negócios](#processos-em-arquitetura-de-negócios)
+  - [Diretrizes Organizacionais](#diretrizes-organizacionais)
+  - [Recursos Organizacionais](#recursos-organizacionais)
+  - [Fluxo de Atividades](#fluxo-de-atividades)
+  - [Participantes](#participantes)
+  - [Alinhamento Estratégico](#alinhamento-estratégico)
+- [🧩 Capacidades de Negócio: Muito além de processos](#capacidades-de-negócio-muito-além-de-processos)
+  - [🔑 Características de uma Capacidade](#características-de-uma-capacidade)
+  - [🔄 Interoperabilidade e Conectividade](#interoperabilidade-e-conectividade)
+  - [🧠 Um sistema, uma coisa](#um-sistema-uma-coisa)
+- [Outros Fundamentos Essenciais da Arquitetura de Negócio](#outros-fundamentos-essenciais-da-arquitetura-de-negócio)
   - [Tecnologia é meio, não fim](#tecnologia-é-meio-não-fim)
   - [Visão Holística Integrada](#visão-holística-integrada)
   - [Soluções de negócio com uso de tecnologia](#soluções-de-negócio-com-uso-de-tecnologia)
@@ -73,9 +82,51 @@ Relaciona-se com outras arquiteturas: Solução, Dados e Tecnologia
 
 ---
 
-## ✅ Fundamentos Essenciais da Arquitetura de Negócio
+## **Processos em Arquitetura de Negócios**
 
-### 🔹 Tecnologia é meio, não fim
+- Diretrizes Organizacionais: Políticas, regras e regulamentações que orientam o funcionamento da empresa.
+- Recursos Organizacionais: Pessoas, sistemas, infraestrutura e capital que viabilizam os processos.
+- Fluxo de Atividades: Sequência de tarefas que compõem os processos de negócio. 
+- Participantes: Agentes humanos, dispositivos e sistemas inteligentes envolvidos na execução.
+- Alinhamento Estratégico: Garante que os processos contribuam para a entrega de valor, conformidade e transformação digital.
+
+<p align="center">
+    <img src="img/inovacao.png">
+</p>
+
+## 🧩 **Capacidades de Negócio: Muito além de processos**
+As capacidades de negócio são os verdadeiros habilitadores da entrega de valor. Elas não são apenas processos — são compostas por recursos, pessoas, papéis e sistemas que, juntos, tornam possível a execução de uma competência essencial da organização.
+
+### 🔑 **Características de uma Capacidade**
+-Não é um processo isolado, mas sim o que o negócio é capaz de fazer de forma consistente.
+- Inclui pelo menos dois papéis:
+  - Um papel gerencial, responsável por governança, desempenho e alinhamento estratégico.
+  - Um papel operacional, que executa as atividades no dia a dia.
+- Requer recursos: humanos, tecnológicos, financeiros e informacionais.
+- É suportada por processos, mas não se limita a eles.
+
+### 🔄 **Interoperabilidade e Conectividade**
+Para que uma capacidade seja eficaz, ela precisa ser interoperável — ou seja, capaz de se conectar ponta-a-ponta com outras capacidades, processos e sistemas. Isso permite:
+
+- Visualizar todas as conexões do início ao fim (end-to-end)
+- Reduzir silos organizacionais
+- Aumentar a fluidez da informação e da tomada de decisão
+
+  Capacidade ≠ Processo
+  Capacidade = Competência + Papéis + Recursos + Processos + Sistemas
+
+### 🧠 **Um sistema, uma coisa**
+Na modelagem de capacidades e soluções, é essencial manter o princípio de clareza e unicidade:
+
+Um sistema deve representar uma coisa — ou seja, uma entidade funcional clara e bem definida.
+Evite sistemas que tentam fazer tudo: isso dificulta a interoperabilidade, a governança e a evolução tecnológica.
+Prefira arquiteturas modulares, com sistemas especializados, bem integrados por meio de APIs e eventos.
+
+---
+
+## ✅ **Outros Fundamentos Essenciais da Arquitetura de Negócio**
+
+### 🔹 **Tecnologia é meio, não fim**
 A verdadeira solução é de *negócio*. A tecnologia é apenas a ferramenta que viabiliza a entrega de valor. O foco deve estar na **inteligência de negócio** que guia as decisões.
 
 ### 🔹 Visão Holística Integrada
@@ -95,16 +146,15 @@ A Arquitetura de Negócio deve considerar a evolução dos sistemas legados, pro
 ### 🔹 A importância do Ciclo de Vida da Informação
 A informação é um ativo estratégico. Compreender seu ciclo de vida — da criação à eliminação — é essencial para garantir governança, segurança, valor e conformidade. A Arquitetura de Negócio deve mapear como a informação flui entre capacidades, processos e sistemas, promovendo:
 
-Qualidade e integridade dos dados
-Aderência a normas regulatórias (LGPD, GDPR, etc.)
-Apoio à tomada de decisão baseada em dados
-Sustentação da transformação digital
+- Qualidade e integridade dos dados
+- Aderência a normas regulatórias (LGPD, GDPR, etc.)
+- Apoio à tomada de decisão baseada em dados
+- Sustentação da transformação digital
 
 ### 🔹 Três Pilares Fundamentais
 - **Transformação Digital**: renovar processos, cultura e experiências com tecnologia  
 - **Inovação Contínua**: diferencial competitivo sustentável. Tratar ela como uma competência fundamental
 - **Excelência Operacional**: eficiência, agilidade e qualidade na entrega de valor
-
 
 ## 🌟 Conceitos Chaves / Destaques da Jornada
 
