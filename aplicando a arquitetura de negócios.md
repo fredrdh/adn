@@ -91,7 +91,7 @@ Relaciona-se com outras arquiteturas: Solução, Dados e Tecnologia
 - Alinhamento Estratégico: Garante que os processos contribuam para a entrega de valor, conformidade e transformação digital.
 
 <p align="center">
-    <img src="img/inovacao.png">
+    <img src="img/processos.png">
 </p>
 
 ## 🧩 **Capacidades de Negócio: Muito além de processos**
