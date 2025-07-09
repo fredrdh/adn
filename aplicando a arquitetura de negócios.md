@@ -91,7 +91,7 @@ Relaciona-se com outras arquiteturas: Solução, Dados e Tecnologia
 - Alinhamento Estratégico: Garante que os processos contribuam para a entrega de valor, conformidade e transformação digital.
 
 <p align="center">
-    <img src="img/inovacao.png">
+    <img src="img/processos.png">
 </p>
 
 ## 🧩 **Capacidades de Negócio: Muito além de processos**
@@ -113,6 +113,7 @@ Para que uma capacidade seja eficaz, ela precisa ser interoperável — ou seja,
 - Aumentar a fluidez da informação e da tomada de decisão
 
   Capacidade ≠ Processo
+
   Capacidade = Competência + Papéis + Recursos + Processos + Sistemas
 
 ### 🧠 **Um sistema, uma coisa**
